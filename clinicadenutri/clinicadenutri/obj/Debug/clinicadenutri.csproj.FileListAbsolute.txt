@@ -1,0 +1,13 @@
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\bin\Debug\CLINICANUTRI.mdf
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\bin\Debug\clinicadenutri.exe.config
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\bin\Debug\clinicadenutri.exe
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\bin\Debug\clinicadenutri.pdb
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\obj\Debug\clinicadenutri.csproj.AssemblyReference.cache
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\obj\Debug\clinicadenutri.csproj.SuggestedBindingRedirects.cache
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\obj\Debug\clinicadenutri.Form1.resources
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\obj\Debug\clinicadenutri.Form2.resources
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\obj\Debug\clinicadenutri.Properties.Resources.resources
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\obj\Debug\clinicadenutri.csproj.GenerateResource.cache
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\obj\Debug\clinicadenutri.csproj.CoreCompileInputs.cache
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\obj\Debug\clinicadenutri.exe
+C:\Users\sreis\Pictures\clinicanutri\clinicadenutri\clinicadenutri\obj\Debug\clinicadenutri.pdb
